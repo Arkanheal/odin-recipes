@@ -1,0 +1,23 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+li a {
+    font-weight: 700;
+    font-style: oblique;
+    color: white;
+    text-decoration: none;
+}
+
+.recipe-header {
+    font-style: italic;
+}
+
+.recipe-main-img {
+    width: 400px;
+    height: auto;
+}
